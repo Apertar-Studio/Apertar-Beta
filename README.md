@@ -4,6 +4,8 @@ Apertar-Alpha is a prebuilt Raspberry Pi 5 image.
 
 It is intended as a ready-to-use alpha release for supported hardware, with Apertar-UI and ApertarCore already configured so you can boot directly into the camera system without a full manual setup.
 
+Download: https://drive.google.com/file/d/125jjTBmPDgpNOJS9VVwmE7JY1jknrM3M/view?usp=sharing
+
 ## Included
 
 - Apertar-UI
