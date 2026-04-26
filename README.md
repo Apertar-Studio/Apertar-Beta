@@ -41,3 +41,6 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 #dtoverlay=waveshare-touch-4dpi
 
 If you use a CFEHat and the i2c channel of it is different from whats in the automount.py at /home/pi/ go ahead and edit this file with the correct i2c channel.
+
+## Credit
+Inspiration has been taken from Schoolpost's project Cinepi-SDK: https://github.com/cinepi/cinepi-sdk
