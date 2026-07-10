@@ -4,7 +4,7 @@ Apertar-Beta is a prebuilt Raspberry Pi 5/4 image.
 
 It is intended as a ready-to-use beta release for supported hardware, with Apertar-UI and ApertarCore already configured so you can boot directly into the camera system without a full manual setup.
 
-Download: https://drive.google.com/file/d/1JYzEb4-S1-vu2WE1iy9QUHZNJfmhYllt/view?usp=sharing
+Download: https://github.com/Apertar-Studio/Apertar-Beta/releases/tag/1.3.0
 
 ## Included
 
